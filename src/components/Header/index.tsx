@@ -36,7 +36,7 @@ function Header({}:Props){
           <span className="text-color2">
             <LogoWedding/>
           </span>
-          <span className="text-2xl font-bold cursor-default">Samawa</span>
+          <span className="text-2xl font-bold cursor-default">Samawa Wedding</span>
         </span>
         <ul className="flex gap-x-10">
           {
